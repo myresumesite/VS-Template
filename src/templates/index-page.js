@@ -7,7 +7,7 @@ import { getSrc } from "gatsby-plugin-image"
 import { RiArrowRightSLine } from "react-icons/ri"
 import { Footer } from "../components/footer"
 // import { GoArrowDown } from "react-icons/go"
-import ScrollAnimation from 'react-animate-on-scroll'
+// import ScrollAnimation from 'react-animate-on-scroll'
 import { Helmet } from "react-helmet"
 import { StaticImage } from "gatsby-plugin-image"
 import { useSiteMetadata } from "../hooks/use-site-metadata"
@@ -398,7 +398,7 @@ const YouTube = frontmatter.youtuber
  
 
 
- <div style={{margin:'0 30px', zIndex:'', borderRadius:'12px', maxHeight:'70vh', overflow:'', position:'relative', display:'', justifyContent:'', alignItems:'', flexDirection:'column'}}>
+ <div className="" style={{margin:'0 30px', zIndex:'', borderRadius:'12px', maxHeight:'70vh', overflow:'', position:'relative', display:'', justifyContent:'', alignItems:'', flexDirection:'column'}}>
    
 
 
@@ -419,17 +419,55 @@ const YouTube = frontmatter.youtuber
 
 
 
-<ScrollAnimation className="" animateIn="bounceInUp" delay={1550} initiallyVisible={false} animateOnce={true} animatePreScroll={true} style={{position:'', margin:'', padding:'',  width:'', zIndex:'', textAlign:'',}}>
+{/* <ScrollAnimation className="" animateIn="bounceInUp" delay={1550} initiallyVisible={false} animateOnce={true} animatePreScroll={true} style={{position:'', margin:'', padding:'',  width:'', zIndex:'', textAlign:'',}}> */}
 <div style={{position:'relative', top:'', margin:'', padding:'10vh 0 0 0',  width:'', zIndex:'1', textAlign:'', borderRadius:'12px',}}>
   {/* <Newsignup /> */}
 
 
+
+
   </div>
-</ScrollAnimation>
+{/* </ScrollAnimation> */}
+
+</div>
+
+<div className="post-card" style={{margin:'35vh auto 0 auto', alignContent:'center', display:'grid', textAlign:'center', border:'0px solid red', maxWidth:'400px'}} >
+
+{/* <h2
+  className="title1 txtshadow-header"
+  style={{
+
+
+   position: 'relative',
+    textAlign: 'center', 
+    float: 'none',
+    margin:'0 0 0 0',
+    padding:'0',
+    fontSize:'1.7rem'
+  }}
+>
+<span  className="" style={{fontSize:'100%', fontWeight:'bold', textTransform:'', background:'rgba(0,0,0,0.30)', borderRadius:'12px', marginTop:'-40px', position:'absolute', width:'100%', display:'flex', justifyContent:'center', textShadow:'2px 2px 10px #222', filter:'drop-shadow(0px 0px 10px #ad04a5)', border:'1px solid #000' }}>Launch Your Web App</span></h2> */}
+
+
+
+<br />
+
+Ready To Go = Be Up In Minutes<br />
+Serverless Cloud Based = FREE<br />
+{/* Cloud Hosting = Free Forever<br /> */}
+Web Apps = NO Apple or Google
+<br />
+<span  className="neonText2">User Install Apps = NO Fees<br />
+</span>
+<br />
+<span style={{color:'', fontSize:'90%'}}>Fast | Flexible | Secure | Featured</span>
+<br /><br />
 
 </div>
 
       </div> 
+
+      
 </div>
 
 
@@ -673,6 +711,281 @@ zIndex:'0'
 
 
 </section>
+
+
+
+<section className="outer section section--gradient fluff txtshadow" style={{padding:'0 8%'}} >
+      <div className="container" style={{padding: '0 0%', color:'#fff'}}>
+
+{/* <h2>Start with the best built website and then make sure it's as fast as can be. Then make some of the most innovative features that nobody else has. Finally, make sure it's virtually hack-proof, easy to use and ready to go!</h2>
+
+<br />
+<p>VidSocks use the industry best cloud-based tools for things like user commenting, analytics, and e-commerce.</p> */}
+
+
+
+
+
+
+
+
+
+<div id="costs" style={{display:'flex', flexDirection:'column', justifyContent:'center', alignItems:'center', margin:'0 0 2rem 0', width:'100%', color:'#fff'}}>
+              
+              
+
+              <p style={{fontSize:'150%', textAlign:'center', margin:'2rem 0 0 0'}}><u>NO</u> Hidden Costs</p>
+              
+  
+
+              <p style={{fontSize:'150%', textAlign:'center', margin:'0 0 0 0'}}>uses FREE Cloud Based Services</p>
+
+              </div>
+
+
+{/* <h2 id="costs" className="letter" style={{fontSize:'240%', textAlign:'center'}}>VidSocks Run Free Of Cost</h2>
+<p style={{fontSize:'150%', textAlign:'center'}}>VidSocks users have <u>NO</u> monthly costs.
+
+</p>  */}
+
+
+
+<div className="flexbutt hover" style={{display:'flex', padding:'0', gap:'20px', color:'#fff'}}>
+
+
+<div className="flexcheek post-card" style={{width:'33%', padding:'1rem 2rem ', backdropFilter: 'blur(4px)', border:'10px double #333', borderRadius:'12px', textAlign:'', alignSelf:'', }}>
+<h3 className="vartext letter" style={{color:'#fff', fontWeight:'700'}}>Cloud Hosting</h3>
+
+<div style={{}}>Virtually all sites operate month-to-month for <strong className="highlight">FREE or low cost</strong>. 
+  <br />
+Pay only when your site uses a LOT of data.<br /> 
+ <br />
+ <div style={{textDecoration:'underline', textAlign:'center'}}><a href="https://www.netlify.com/pricing/" target="_blank" rel="noreferrer" >View  <strong className="highlight"></strong> Hosting Plan</a></div>
+ </div>
+
+</div>
+
+<div className="flexcheek post-card" style={{width:'33%', padding:'1rem 2rem ', backdropFilter: 'blur(4px)', border:'10px double #333', borderRadius:'12px', textAlign:'', alignSelf:'', }}>
+<h3 className="vartext letter" style={{color:'#fff', fontWeight:'700'}}>Analytics</h3>
+<p>Complete integration with Google Analytics. Simply paste your account tracking code into the CMS settings. 
+  <br />
+  <br />Track your website performance for <strong className="highlight">FREE</strong>!</p>
+</div>
+
+<div className="flexcheek post-card" style={{width:'33%', padding:'1rem 2rem ', backdropFilter: 'blur(4px)', border:'10px double #333', borderRadius:'12px', textAlign:'', alignSelf:'', }}>
+<h3 className="vartext letter" style={{color:'#fff', fontWeight:'700'}}>E-Commerce</h3>
+<p>Complete Shopify API integration with Shopify shopping cart built-in.
+Get FULL Shopify functionality directly inside your site.
+<br />
+   <br />Shopify API costs <strong className="highlight">$8.99mo</strong>.</p>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div className="flexbutt hover" style={{display:'flex', marginTop:'20px', padding:'', gap:'20px', color:'#fff'}}>
+
+
+<div className="flexcheek post-card" style={{width:'33%', padding:'1rem 2rem ', backdropFilter: 'blur(4px)', border:'10px double #333', borderRadius:'12px', textAlign:'', alignSelf:'', }}>
+<h3 className="vartext letter" style={{color:'#fff', fontWeight:'700'}}>Social Sharing</h3>
+<p>Why pay for plugins just to allow for your users to share your content? Social sharing is built-in, along with other great features. <br /><br />All INCLUDED for <strong className="highlight">FREE</strong>.</p>
+</div>
+
+<div className="flexcheek post-card" style={{width:'33%', padding:'1rem 2rem ', backdropFilter: 'blur(4px)', border:'10px double #333', borderRadius:'12px', textAlign:'', alignSelf:'', }}>
+<h3 className="vartext letter" style={{color:'#fff', fontWeight:'700'}}>AdFree YouTube</h3>
+<p>We use AdFree YouTube to remove ads. This means you have complete control of your videos without any ads.
+  
+  <br /><br />AdFree YouTube <strong className="highlight">FREE!</strong></p>
+</div>
+
+{/* <div className="flexcheek" style={{width:'33%', padding:'2rem', background: 'rgba(0,0,0,0.30)', padding:'1rem 2rem ', backdropFilter: 'blur(4px)', border:'10px double #999', borderRadius:'12px', textAlign:'', alignSelf:'', }}>
+<h3 className="vartext">NFT Features</h3>
+<p>Setup countdown timers for your own NFT Drops!  <br /> Embed your Foundation or OpenSea into your posts. Just copy and paste the share code.</p>
+</div> */}
+<div className="flexcheek post-card" style={{width:'33%', padding:'1rem 2rem ', backdropFilter: 'blur(4px)', border:'10px double #333', borderRadius:'12px', textAlign:'', alignSelf:'', }}>
+<h3 className="vartext letter" style={{color:'#fff', fontWeight:'700'}}>Comments</h3>
+<p>We use CommentBox.io and with their generous 100 comments a month.
+  
+  <br /><br /><strong className="highlight" style={{color:''}}>FREE!</strong> Comments without ads</p>
+</div>
+
+
+</div>
+
+
+
+      </div>
+</section>
+
+
+
+
+{/* <StaticImage src="../../static/assets/biloxibay.jpg" alt="Todd Lambert Night photos" style={{height:'auto', width:'100vw', maxHeight:'100%', position:'', left:'0', top:'', zIndex:'', margin:'2vh 0', objectFit:'contain', overflow:'hidden', border:'0px solid red !important'}}  /> */}
+
+
+
+
+
+
+<section id="features" className="" style={{padding:'8% 2%'}}>
+<div className="flexbutt featurelisting" style={{display:'flex', padding:'2rem', alignItems:'baseline', gap:'30px', color:'#fff'}}>
+
+
+
+  <div className="flexcheek" >
+    <div className="frontcontent">
+      <div className="content-inside" style={{padding:'8px', textAlign:'left'}}>
+        
+      {/* <h2
+  className="title1 txtshadow-header"
+  style={{
+   position: 'relative',
+    textAlign: 'center', 
+    float: 'none',
+    margin:'0 0 10px 0',
+    padding:'0',
+    fontSize:'1.7rem'
+  }}
+>
+
+<span  className="" style={{fontSize:'100%', fontWeight:'bold', textTransform:'', background:'rgba(0,0,0,0.30)', borderRadius:'12px', marginTop:'-40px', position:'absolute', width:'100%', display:'flex', justifyContent:'center', textShadow:'2px 2px 10px #222', filter:'drop-shadow(0px 0px 10px #0064bb)', border:'1px solid #000', }}>Coast Web includes:</span></h2> */}
+          
+        <ul className="featurelist" style={{listStyleType:'none'}}>
+        <li>User-installable PWA (Progressive Web Apps) which means your site can be installed on any device without the need for expensive and complex App Stores.</li>
+        <li>Hosted on Global Edge Network (the cloud)</li>
+        <li>Automated backups with intant rollbacks to any version.</li>
+        <li>FREE - 100GB/Mo Bandwidth</li>
+<li>FREE - 100 Site Form Submits per Mo</li>
+<li>FREE Secured Socket Layer (SSL) Cert (https://)</li>
+<li>Customizable with your own domain name</li>
+<li>Responsive Design, built with React and Gatsby</li>
+<li>Dark / Light Mode (also full support for all web accessibility guidelines)</li>
+
+
+</ul>
+      </div>
+    </div>
+  </div>
+
+
+
+
+
+  <div className="flexcheek hover">
+    <div className="frontcontent">
+      <div className="content-inside" style={{padding:'8px'}}>
+        {/* <h2 className="vartext txtshadow">VidSocks Features:</h2> */}
+        {/* <h2
+  className="title1 txtshadow-header"
+  style={{
+
+
+   position: 'relative',
+    textAlign: 'center', 
+    float: 'none',
+    margin:'0 0 10px 0',
+    padding:'0',
+    fontSize:'1.7rem'
+  }}
+>
+
+<span  className="" style={{fontSize:'100%', fontWeight:'bold', textTransform:'', background:'rgba(0,0,0,0.30)', borderRadius:'12px', marginTop:'-40px', position:'absolute', width:'100%', display:'flex', justifyContent:'center', textShadow:'2px 2px 10px #222', background:'rgba(0,0,0,0.30)', filter:'drop-shadow(0px 0px 10px #0064bb)', border:'1px solid #000', }}>Coast Web sites:</span></h2> */}
+
+        <ul className="featurelist" style={{listStyleType:'none'}}>
+
+
+
+
+
+
+<li>Customize all content of included Homepage, About and Contact page. Add / Modify / Delete blog posts.</li>
+
+<li>Edit website settings, Add Google Analytics change colors, settings, logos, etc all from within the CMS.</li>
+
+
+<li>Hide/Show Comments, Social Sharing, or User-interactivity (youtube video changer) on a post-by-post basis</li>
+
+<li>Control YouTube videos with starting/stopping times, loop, mute, etc..</li>
+
+<li>PWA Exclusive Content (make some of your content only available to your site's user base - great to boost engagement!)</li>
+
+<li>Drop Timers - Easily create your own Drops. Make posts appear when your NFT drops. Just add the drop date and time</li>
+
+<li>Your Stuff is SAFE - All stored in native image formats and markdown files that are downloadable at any time</li>
+{/* <li>Auction Timers - Make posts disappear when your auction expires</li> */}
+
+</ul>
+      </div>
+    </div>
+  </div>
+
+  
+
+
+
+  <div className="flexcheek">
+    <div className="frontcontent content-lr">
+    
+      <div className="content-inside" style={{padding:'8px'}}>
+        
+
+        {/* <h2
+  className="title1 txtshadow-header"
+  style={{
+
+
+   position: 'relative',
+    textAlign: 'center', 
+    float: 'none',
+    margin:'0 0 10px 0',
+    padding:'0',
+    fontSize:'1.7rem'
+  }}
+>
+
+<span  className="" style={{fontSize:'100%', fontWeight:'bold', textTransform:'', background:'rgba(0,0,0,0.30)', borderRadius:'12px', marginTop:'-40px', position:'absolute', width:'100%', display:'flex', justifyContent:'center', textShadow:'2px 2px 10px #222', background:'rgba(0,0,0,0.30)', filter:'drop-shadow(0px 0px 10px #0064bb)', border:'1px solid #000', }}>More Features:</span></h2> */}
+
+
+        <ul className="featurelist" style={{listStyleType:'none'}}>
+        
+
+<li>100% SEO Optimized - Google LOVES Coast Web sites. </li>
+
+<li>Full Privacy Compliance Support (GDPR and CCPA). </li>
+
+<li>Contact Form - an integrated contact form on all pages of the your site, that sends everything right to your email inbox.</li>
+
+<li>E-Newsletter Form - Build your email newsletter by allowing peole to easily sign up</li>
+
+<li>Social Media Icons - link to all your sites and allow users to easily share your content</li>
+
+<li>OpenGraph structured data - all of site is structured to be shared with high quality image links on social sites</li>
+
+<li>Twitter Cards meta - Your pages will look great when shared on Twitter</li>
+
+<li>XML Sitemaps - Your entire site is automatically indexed and links provided to search engines.</li>
+
+
+
+
+
+
+</ul>
+      </div>
+    </div>
+  </div>
+  
+</div>
+</section>
+
 
 
  </div>{/* end scooch */}
