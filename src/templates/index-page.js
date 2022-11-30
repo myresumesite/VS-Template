@@ -431,7 +431,7 @@ const YouTube = frontmatter.youtuber
 
 </div>
 
-<div className="post-card" style={{margin:'35vh auto 0 auto', alignContent:'center', display:'grid', textAlign:'center', border:'0px solid red', maxWidth:'80%'}} >
+<div className="post-card" style={{margin:'300px auto 0 auto', alignContent:'center', display:'grid', textAlign:'center', justifyContent:'center', verticalAlign:'center', border:'0px solid red', maxWidth:'80%', paddingTop:'1rem'}} >
 
 {/* <h2
   className="title1 txtshadow-header"
@@ -450,7 +450,7 @@ const YouTube = frontmatter.youtuber
 
 
 
-<br />
+
 
 {/* Ready To Go = Be Up In Minutes<br />
 Serverless Cloud Based = FREE<br />
@@ -465,7 +465,7 @@ Only $99 single pay (NO Recurring Fees)<br />You own forever - it runs for free,
 <button className="neonText" style={{color:'#fff', fontSize:'160%', border:'1px solid', margin:'0 auto', borderRadius:'8px', maxWidth:'300px', padding:'0 2rem'}}>Order Now</button>
 <br /><br />
 <span style={{color:'', fontSize:'90%'}}>Fast | Flexible | Secure | Featured</span>
-<br /><br />
+<br />
 
 </div>
 

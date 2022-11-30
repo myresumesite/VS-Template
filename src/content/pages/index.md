@@ -1,6 +1,6 @@
 ---
 slug: /
-tagline: COST FREE Multimedia Resume Website Apps
+tagline: Cost FREE Multimedia Resume Website Apps
 description: "MyResume - Next-Gen Resume Platform"
 featuredImage: /assets/default-og-image.jpg
 secondaryImage: /assets/icon-512x512.png
@@ -22,10 +22,10 @@ youtubemute: "1"
 svgzindex: ""
 youtubestart: ""
 ---
-<h3 class="" style="color:; font-weight:bold; font-size:115%; margin:1rem 0; text-align:center; padding:5px; border-radius:12px;">
-Complete website apps with customizable resume pages and with integrated contact forms. </h3>
+<h3 class="" style="color:; font-weight:bold; font-size:105%; margin:1rem 0; text-align:center; padding:5px; border-radius:12px;">
+Complete website apps with customizable resume pages and with integrated contact forms that send to your email. </h3>
 
-<h3 class="" style="color:; font-weight:bold; font-size:115%; margin:1rem 0; text-align:center; padding:5px; border-radius:12px;">
+<h3 class="" style="color:; margin:1rem 0; text-align:center; padding:5px; border-radius:12px;">
 Works on all devices - responsive design
 <br />
 Conforms 100% to Google and Web Standards 
@@ -35,7 +35,7 @@ Runs anywhere and even works offline
  </h3>
 
 
- <div class="" style=" padding: 1rem 2rem; border: 0px double rgb(255, 255, 255); border-radius: 12px;"><h2 class="title1 txtshadow-header" style="position: relative; text-align: center; float: none; margin: 0px; padding: 0px; font-size: 1.7rem;"><span class="" style="font-size: 100%; font-weight: bold; border-radius: 12px; margin-top: -10px; position: absolute; width: 100%; display: flex; justify-content: center; border: 0px solid rgb(0, 0, 0);">Launch Your OWN Today!</span>
+ <div class="" style=" background:rgba(0,0,0,0.30); padding: 1rem 2rem; border: 0px double rgb(255, 255, 255); border-radius: 12px;"><h2 class="title1 txtshadow-header" style="position: relative; text-align: center; float: none; margin: 0px; padding: 0px; font-size: 1.5rem;"><span class="" style="font-size: 100%; font-weight: bold; border-radius: 12px; margin-top: -10px; position: absolute; width: 100%; display: flex; justify-content: center; border: 0px solid rgb(0, 0, 0);">Launch Yours Today</span>
  <br />
  Ready To Go = Be Up In Minutes<br />
 <!-- Serverless Cloud Based = FREE<br /> -->
