@@ -420,7 +420,7 @@ const YouTube = frontmatter.youtuber
 
 <ScrollAnimation className="" animateIn="bounceInUp" delay={550} initiallyVisible={false} animateOnce={true} animatePreScroll={true} style={{position:'', margin:'', padding:'',  width:'', zIndex:'', textAlign:'',}}>
 <div style={{position:'relative', top:'', margin:'0', padding:'25% 0',  width:'', zIndex:'1', textAlign:'', borderRadius:'12px',}}>
-  <Newsignup />
+  {/* <Newsignup /> */}
   </div>
 </ScrollAnimation>
 
