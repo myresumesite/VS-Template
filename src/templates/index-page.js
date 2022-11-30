@@ -458,11 +458,11 @@ Web Apps = NO Apple or Google
 <br />
 <span  className="neonText2">User Install Apps = NO Fees<br />
 </span> */}
-<span style={{color:'', fontSize:'140%'}}>Get Started NOW</span>
+<span style={{color:'', fontSize:'140%'}}>Let's Get Started</span>
 
 Only $99 single pay (NO Recurring Fees)<br />You own forever - it runs for free, forever
 <br /><br />
-<button style={{color:'#ff0000', fontSize:'160%', border:'1px solid', margin:'0 auto', borderRadius:'8px', maxWidth:'300px', padding:'0 2rem'}}>Order Now</button>
+<button className="neonText" style={{color:'#fff', fontSize:'160%', border:'1px solid', margin:'0 auto', borderRadius:'8px', maxWidth:'300px', padding:'0 2rem'}}>Order Now</button>
 <br /><br />
 <span style={{color:'', fontSize:'90%'}}>Fast | Flexible | Secure | Featured</span>
 <br /><br />

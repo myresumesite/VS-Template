@@ -935,13 +935,7 @@ body.carto .carta {display:block; height:100%;}
 .neonText {
 color:#fff !important;
   text-shadow:
-      0 0 7px #bc57eb,
-      0 0 10px rgb(196, 134, 180),
-      0 0 21px rgb(167, 139, 162),
-      0 0 22px #FA02B7,
-      0 0 32px #FA02B7,
-      0 0 42px #ccc,
-      0 0 42px #FA02B7,
+      0 0 7px #14e8f3,
       0 0 31px #37f8f8;
       /* outline:1px solid rgba(0, 0, 0, 1) */
       filter: drop-shadow(1px 0px 4px rgba(0,0,0,.9));
@@ -2511,8 +2505,8 @@ opacity:.8;
     padding: 0;
     border: 1px solid rgba(0, 0, 0, 0.08);
     /* transition: transform 250ms ease-in-out; */
-    background-color:#111;
-    background: linear-gradient(180deg, #333 1%, #111 80%);
+    background-color:transparent;
+    background: linear-gradient(180deg, rgb(27, 45, 50) 10%, rgb(81, 119, 138) 80%);
     /* border-left:1px solid rgba(255, 255, 255, 0.10); */
     box-shadow: 0 5px 10px rgba(0, 0, 0, 1);
     border-radius: 12px;
