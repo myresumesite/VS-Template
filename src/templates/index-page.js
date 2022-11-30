@@ -460,7 +460,7 @@ Web Apps = NO Apple or Google
 </span> */}
 <span style={{color:'', fontSize:'140%'}}>Get Started NOW</span>
 
-Only $99 - Complete with everything
+Only $99 single pay (NO Recurring Fees)<br />You own forever - it runs for free, forever
 <br /><br />
 <button style={{color:'#ff0000', fontSize:'160%', border:'1px solid', margin:'0 auto', borderRadius:'8px', maxWidth:'300px', padding:'0 2rem'}}>Order Now</button>
 <br /><br />
