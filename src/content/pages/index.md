@@ -1,6 +1,6 @@
 ---
 slug: /
-tagline: Next-Gen Multimedia Resumes Web Apps
+tagline: COST FREE Multimedia Resume Website Apps
 description: "MyResume - Next-Gen Resume Platform"
 featuredImage: /assets/default-og-image.jpg
 secondaryImage: /assets/icon-512x512.png
@@ -8,7 +8,7 @@ underlayImage: /assets/transparent.png
 showInfo: "1"
 youtuber: ""
 youtubeautostart: "1"
-title: Your Resume Online Forever
+title: Your Resume, Online... Forever
 svgImage: /assets/null.svg
 showPosts: ""
 cta:
@@ -27,6 +27,15 @@ A complete website/app platform with multimedia resume and customizable pages wi
 
 <h3 class="" style="color:; font-weight:bold; font-size:115%; margin:1rem 0; text-align:center; padding:5px; border-radius:12px;">
  </h3>
+ <div class="" style="background-color: rgba(0, 0, 0, 0.3); padding: 1rem 2rem; border: 0px double rgb(255, 255, 255); border-radius: 12px;"><h2 class="title1 txtshadow-header" style="position: relative; text-align: center; float: none; margin: 0px; padding: 0px; font-size: 1.7rem;"><span class="" style="font-size: 100%; font-weight: bold; border-radius: 12px; margin-top: -10px; position: absolute; width: 100%; display: flex; justify-content: center; border: 0px solid rgb(0, 0, 0);">Launch Your OWN Today!</span>
+ <br />
+ Ready To Go = Be Up In Minutes<br />
+<!-- Serverless Cloud Based = FREE<br /> -->
+Cloud Hosting = Free Forever<br />
+Web Apps = NO Apple or Google
+<br />
+<span  className="neonText2">User Install Apps = NO Fees<br />
+
 
 
  

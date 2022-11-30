@@ -431,7 +431,7 @@ const YouTube = frontmatter.youtuber
 
 </div>
 
-<div className="post-card" style={{margin:'35vh auto 0 auto', alignContent:'center', display:'grid', textAlign:'center', border:'0px solid red', maxWidth:'400px'}} >
+<div className="post-card" style={{margin:'35vh auto 0 auto', alignContent:'center', display:'grid', textAlign:'center', border:'0px solid red', maxWidth:'80%'}} >
 
 {/* <h2
   className="title1 txtshadow-header"
@@ -452,14 +452,18 @@ const YouTube = frontmatter.youtuber
 
 <br />
 
-Ready To Go = Be Up In Minutes<br />
+{/* Ready To Go = Be Up In Minutes<br />
 Serverless Cloud Based = FREE<br />
-{/* Cloud Hosting = Free Forever<br /> */}
 Web Apps = NO Apple or Google
 <br />
 <span  className="neonText2">User Install Apps = NO Fees<br />
-</span>
-<br />
+</span> */}
+<span style={{color:'', fontSize:'140%'}}>Get Started NOW</span>
+
+Only $99 - Complete with everything
+<br /><br />
+<button style={{color:'#ff0000', fontSize:'160%', border:'1px solid', margin:'0 auto', borderRadius:'8px', maxWidth:'300px', padding:'0 2rem'}}>Order Now</button>
+<br /><br />
 <span style={{color:'', fontSize:'90%'}}>Fast | Flexible | Secure | Featured</span>
 <br /><br />
 
@@ -473,6 +477,7 @@ Web Apps = NO Apple or Google
 
 </article>
 </section>
+
 
 
 
@@ -534,6 +539,8 @@ zIndex:'0'
 <Portfolio />
 </ScrollAnimation> */}
 
+
+<p style={{fontSize:'150%', textAlign:'center', margin:'2rem 0 0 0'}}>Examples:</p>
 
 <div className="sliderholder" style={{display:'flex', justifyContent:'center', width:'100%', height:'500px', overflow:'hidden', position:'relative',}}>
 
