@@ -408,7 +408,7 @@ const YouTube = frontmatter.youtuber
             <GatsbyImage
               image={SecondaryImage}
               alt={frontmatter.title + " - Featured image"}
-              className="post-card"
+              className="drop-shadow"
               style={{border:'0px solid red', width:'100%', height:'', maxHeight:'70vh',  borderRadius:'12px !important', position:'absolute', backgroundSize:'cover', objectFit:'cover', top:'0', zIndex:'0'}}
             />
           ) : (
@@ -540,7 +540,7 @@ zIndex:'0'
 </ScrollAnimation> */}
 
 
-<p style={{fontSize:'150%', textAlign:'center', margin:'2rem 0 0 0'}}>Examples:</p>
+<p style={{fontSize:'150%', textAlign:'center', margin:'2rem 0 0 0'}}>See it in action:</p>
 
 <div className="sliderholder" style={{display:'flex', justifyContent:'center', width:'100%', height:'500px', overflow:'hidden', position:'relative',}}>
 
@@ -648,7 +648,7 @@ zIndex:'0'
 
 
 
-<div className="post-card" style={{height:'', margin:'', display:'flex', flexDirection:'column', justifyContent:'space-between', borderRadius:'12px', overflow:'hidden'}}>
+<div className="post-card1" style={{height:'', margin:'', display:'flex', flexDirection:'column', justifyContent:'space-between', borderRadius:'12px', overflow:'hidden'}}>
     <a className="noexit" href="https://twilightscapes.com" target="_blank" rel="noopener noreferrer" style={{textDecoration:'none', color:'inherit',}}>
     <StaticImage src="../../static/assets/icon-512x512.png" alt="Todd Lambert Night photos"  /></a>
    
@@ -660,7 +660,7 @@ zIndex:'0'
 
 
 
-    <div className="post-card" style={{height:'', margin:'', display:'flex', flexDirection:'column', justifyContent:'space-between', borderRadius:'12px', overflow:'hidden'}}>
+    <div className="post-card1" style={{height:'', margin:'', display:'flex', flexDirection:'column', justifyContent:'space-between', borderRadius:'12px', overflow:'hidden'}}>
     <a className="noexit" href="https://tron.allin60.com" target="_blank" rel="noopener noreferrer" style={{textDecoration:'none', color:'inherit',}}>
     <StaticImage src="../../static/assets/icon-512x512.png" alt="TRON movie in only 60 seconds"  /></a>
     
