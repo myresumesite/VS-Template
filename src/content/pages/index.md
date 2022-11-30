@@ -23,7 +23,7 @@ svgzindex: ""
 youtubestart: ""
 ---
 <h3 class="" style="color:; font-weight:bold; font-size:115%; margin:1rem 0; text-align:center; padding:5px; border-radius:12px;">
-A complete website/app platform with multimedia resume and customizable home page, about and contact pages with integrated contact forms. </h3>
+A complete website/app platform with multimedia resume and customizable pages with integrated contact forms. </h3>
 
 <!-- <h3 class="" style="color:; font-weight:bold; font-size:115%; margin:1rem 0; text-align:center; padding:5px; border-radius:12px;"> Built for artists, photographers, musicians, and others who want their resume online forever and to stand out from the crowd.
 </h3> -->

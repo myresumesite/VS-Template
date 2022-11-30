@@ -470,7 +470,7 @@ const YouTube = frontmatter.youtuber
 
 
 
-<section id="posts1" name="posts">
+<section id="posts1" name="posts" style={{margin:'4vh 0 0 0'}}>
 
 
 
@@ -580,119 +580,14 @@ zIndex:'0'
 
         light="../assets/icon-512x512.png"
       />
-
-<br />
-
-<div className="post-card1 button1 logocopy " style={{textAlign:'center', padding:'0 0 .5rem 0', margin:'0'}}>
-  {/* <a className="post-card button " href="https://urbanfetish.com" target="_blank" rel="noopener noreferrer" style={{textDecoration:'none', color:'inherit',}}> */}
-  Unique Conceptual Photography
-  {/* </a> */}
-  </div>
-
-</div>
-
-
-<div className="post-card" style={{height:'', padding:'', display:'flex', flexDirection:'column', justifyContent:'space-between',}}>
-<ReactPlayer
-      className='react-player666'
-      url="https://youtu.be/cHwL8y-NJjk"
-      width="100%"
-      height="350px"
-      config={{
-        youtube: {
-          playerVars: { showinfo:'0', autoplay:true, controls:'0', start:YouTubeStart, end:YouTubeEnd, mute:true  }
-        },
-      }}
-      loop
-      playsinline
-      playIcon={
-        <button aria-label="Click To Play" className="clickplays" style={{position:'relative', zIndex:'0', top:'', border:'0px  solid red', width:'100vw', height:'', background:'transparent', color:'#fff', fontSize:'18px', textAlign:'center', display:'flex', flexDirection:'column', verticalAlign:'center', justifyContent:'center', alignItems:'center', paddingTop:'0', borderRadius:'12px'}}>
-      
-    <div className="" style={{position:'absolute', bottom:'-50px', zIndex:'0', textAlign:'center', animation:'fadeIn 3s', display:'flex', justifyContent:'', width:'auto', marginBottom:''}}>
-      
-    <div className="popped1" style={{display:'flex', width:'', margin:'0 auto', fontWeight:'bold', padding:'.5rem', fontSize:'2rem',}}><div style={{fontSize:'24px', fontWeight:'', padding:'0 0 0 .3rem', filter:'drop-shadow(2px 2px 2px #000)'}}><ImPlay style={{margin:'0 auto', width:'', fontSize:'40px'}} />CLICK TO PLAY</div></div>
-
-      </div>
-      </button>}
-       light="../assets/icon-512x512.png"
-      />
-
-<br />
-<div className="post-card1 button1 logocopy " style={{textAlign:'center', padding:'0 0 .5rem 0', margin:'0'}}>
-      {/* <a className="post-card button " href="https://urbanfetish.com" target="_blank" rel="noopener noreferrer" style={{textDecoration:'none', color:'inherit',}}> */}
-      Responsive web apps that work everywhere
-      {/* </a> */}
-      </div>
-</div> 
-
-
-
-
-
-
-<div className="post-card" style={{height:'', padding:'', display:'flex', flexDirection:'column', justifyContent:'space-between',}}>
-<ReactPlayer
-      className='react-player666'
-      url="https://youtu.be/LHJlm_4B-Vo"
-      width="100%"
-      height="350px"
-      config={{
-        youtube: {
-          playerVars: { showinfo:'0', autoplay:true, controls:'0', start:YouTubeStart, end:YouTubeEnd, mute:true  }
-        },
-      }}
-      loop
-      playsinline
-      playIcon={
-        <button aria-label="Click To Play" className="clickplays" style={{position:'relative', zIndex:'0', top:'', border:'0px  solid red', width:'100vw', height:'', background:'transparent', color:'#fff', fontSize:'18px', textAlign:'center', display:'flex', flexDirection:'column', verticalAlign:'center', justifyContent:'center', alignItems:'center', paddingTop:'0', borderRadius:'12px'}}>
-      
-    <div className="" style={{position:'absolute', bottom:'-50px', zIndex:'0', textAlign:'center', animation:'fadeIn 3s', display:'flex', justifyContent:'', width:'auto', marginBottom:''}}>
-      
-    <div className="popped1" style={{display:'flex', width:'', margin:'0 auto', fontWeight:'bold', padding:'.5rem', fontSize:'2rem',}}><div style={{fontSize:'24px', fontWeight:'', padding:'0 0 0 .3rem', filter:'drop-shadow(2px 2px 2px #000)'}}><ImPlay style={{margin:'0 auto', width:'', fontSize:'40px'}} />CLICK TO PLAY</div></div>
-
-      </div>
-      </button>}
-       light="../assets/icon-512x512.png"
-      />
       <br />
-      <div className="post-card1 button1 logocopy " style={{textAlign:'center', padding:'0 0 .5rem 0', margin:'0'}}>
-      {/* <a className="post-card button " href="https://urbanfetish.com" target="_blank" rel="noopener noreferrer" style={{textDecoration:'none', color:'inherit',}}> */}
-      Pushing boundaries with blended technologies
-      {/* </a> */}
-      </div>
-</div> 
-
-
-<div className="post-card" style={{height:'', padding:'', display:'flex', flexDirection:'column', justifyContent:'space-between',}}>
-<ReactPlayer
-      className='react-player666'
-      url="https://youtu.be/M-RJO7TlLU4"
-      width="100%"
-      height="350px"
-      config={{
-        youtube: {
-          playerVars: { showinfo:'0', autoplay:true, controls:'0', start:YouTubeStart, end:YouTubeEnd, mute:true, loop:true  }
-        },
-      }}
-      loop
-      playsinline
-      playIcon={
-        <button aria-label="Click To Play" className="clickplays" style={{position:'relative', zIndex:'0', top:'', border:'0px  solid red', width:'100vw', height:'', background:'transparent', color:'#fff', fontSize:'18px', textAlign:'center', display:'flex', flexDirection:'column', verticalAlign:'center', justifyContent:'center', alignItems:'center', paddingTop:'0', borderRadius:'12px'}}>
-      
-    <div className="" style={{position:'absolute', bottom:'-50px', zIndex:'0', textAlign:'center', animation:'fadeIn 3s', display:'flex', justifyContent:'', width:'auto', marginBottom:''}}>
-      
-    <div className="popped1" style={{display:'flex', width:'', margin:'0 auto', fontWeight:'bold', padding:'.5rem', fontSize:'2rem',}}><div style={{fontSize:'24px', fontWeight:'', padding:'0 0 0 .3rem', filter:'drop-shadow(2px 2px 2px #000)'}}><ImPlay style={{margin:'0 auto', width:'', fontSize:'40px'}} />CLICK TO PLAY</div></div>
-
-      </div>
-      </button>}
-       light="../assets/icon-512x512.png"
-      />
-            <br />
             <div className="post-card1 button1 logocopy " style={{textAlign:'center', padding:'0 0 .5rem 0', margin:'0'}}>
       {/* <a className="post-card button " href="https://urbanfetish.com" target="_blank" rel="noopener noreferrer" style={{textDecoration:'none', color:'inherit',}}> */}
-      State-of-the-art photography techniques
+      Make changes wherever you want.
       {/* </a> */}
       </div>
+
+
 </div> 
 
 
@@ -737,48 +632,7 @@ zIndex:'0'
 
 
 
-    <div className="post-card" style={{height:'', margin:'', display:'flex', flexDirection:'column', justifyContent:'space-between', borderRadius:'12px', overflow:'hidden'}}>
-    <a className="noexit" href="https://vidsocks.com" target="_blank" rel="noopener noreferrer" style={{textDecoration:'none', color:'inherit'}}>
-    <StaticImage src="../../static/assets/icon-512x512.png" alt="Todd builds Web Apps"  /></a>
-   
-    <p style={{padding:'1rem 2rem 0 2rem'}}>
-Todd sells exceptionally fast and well-built multimedia web apps called VidSocks. They are a complete website solution that get top ranks in Google!
-    </p><br />
-    <div style={{textAlign:'center',}}><a className="post-card button " href="https://vidsocks.com" target="_blank" rel="noopener noreferrer" style={{textDecoration:'none', color:'inherit',}}>VidSocks.com</a></div>
     
-    </div>
-
-
-
-
-    <div className="post-card" style={{height:'', margin:'', display:'flex', flexDirection:'column', justifyContent:'space-between', borderRadius:'12px', overflow:'hidden'}}>
-    <a className="noexit" href="https://allin60.com" target="_blank" rel="noopener noreferrer" style={{textDecoration:'none', color:'inherit',}}>
-    <StaticImage src="../../static/assets/icon-512x512.png" alt="Popular movies in only 60 seconds"  /></a>
-
-    <p style={{padding:'1rem 2rem 0 2rem'}}>
-    Today's most popular movies are recreated in a dynamic multimedia format and it's all in 60 seconds. Experience your favorite movies again in fast 60 second snippets.
-</p>
-   <br />
-    <div style={{textAlign:'center',}}><a className="post-card button " href="https://allin60.com" target="_blank" rel="noopener noreferrer" style={{textDecoration:'none', color:'inherit',}}>Allin60.com</a></div>
-    
-    </div>
-
-
-
-
-
-
-
-
-    <div className="post-card" style={{height:'', margin:'', display:'flex', flexDirection:'column', justifyContent:'space-between', borderRadius:'12px', overflow:'hidden'}}>
-    <a className="noexit" href="https://urbanfetish.com" target="_blank" rel="noopener noreferrer" style={{textDecoration:'none', color:'inherit',}}>
-    <StaticImage src="../../static/assets/icon-512x512.png" alt="Todd Lambert Night photos"  /></a>
-    <p style={{padding:'1rem 2rem 0 2rem'}}>
-    Take a walk on the wild side and follow along as Todd Lambert goes in search of the creepiest, freakiest, spookiest abandoned and desolate locations he can find. 
-    </p><br />
-    <div style={{textAlign:'center',}}><a className="post-card button " href="https://urbanfetish.com" target="_blank" rel="noopener noreferrer" style={{textDecoration:'none', color:'inherit',}}>UrbanFetish.com</a></div>
-    
-    </div>
 
 
 

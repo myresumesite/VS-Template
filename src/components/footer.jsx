@@ -215,7 +215,7 @@ export function Footer() {
 
 
         
-        <Install />
+        {/* <Install /> */}
  <div >
      
 

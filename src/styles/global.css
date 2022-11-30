@@ -8,6 +8,16 @@ body {
   width:100vw;
 }
 
+::-webkit-scrollbar {
+  width: 1px !important;
+  height: 1px !important;
+}
+
+::-webkit-scrollbar-button {
+  width: 1px !important;
+  height: 1px !important;
+}
+
 .grid{
   display: flex;
   /* flex-basis: 10vw; */
@@ -48,17 +58,19 @@ body.homepage, body.bloglist {
     }
 
 /* External Links */
-a:not([href*='localhost:8000']):not([href^='#']):not([href^='/']):after {
+/* External Links */
+/* a:not([href*='toddlambert.com']):not([href^='#']):not([href^='/']){position: relative;}
+a:not([href*='toddlambert.com']):not([href^='#']):not([href^='/']):after {
   content: " \2348";
   text-decoration: none !important;
   font-size: 115%;
   margin-left:6px;
   border:none !important;
-  text-shadow: 2px 1px 0px #000;
   filter: none !important;
-  color:#fff;
   font-weight:bold;
-}
+  position: relative;
+  right:0;
+} */
 
 #SRLLightbox a:not([href*='localhost:8000']):not([href^='#']):not([href^='/']):after, a.noext:not([href*='localhost:8000']):not([href^='#']):not([href^='/']):after{
   content: none;
@@ -2738,7 +2750,7 @@ opacity:.8;
 
 
                            .sliderholder{
-                            background-color: rgba(63, 61, 61, 0.5);
+                            /* background-color: rgba(63, 61, 61, 0.5); */
                             /* background: rgb(85, 59, 59); */
             /* background: linear-gradient(0deg, rgb(8, 8, 8) 0%, rgb(58, 56, 56) 100%); */
             filter: drop-shadow(0px 0px 0px #ccc);
