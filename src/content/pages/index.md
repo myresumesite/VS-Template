@@ -25,10 +25,10 @@ youtubestart: ""
 <h3 class="" style="color:; font-weight:bold; font-size:115%; margin:1rem 0; text-align:center; padding:5px; border-radius:12px;">
 A complete website/app platform with multimedia resume and customizable home page, about and contact pages with integrated contact forms. </h3>
 
-<h3 class="" style="color:; font-weight:bold; font-size:115%; margin:1rem 0; text-align:center; padding:5px; border-radius:12px;"> Built for artists, photographers, musicians, and others who want their resume online forever and to stand out from the crowd.
-</h3>
+<!-- <h3 class="" style="color:; font-weight:bold; font-size:115%; margin:1rem 0; text-align:center; padding:5px; border-radius:12px;"> Built for artists, photographers, musicians, and others who want their resume online forever and to stand out from the crowd.
+</h3> -->
 
-<blockquote>
+<!-- <blockquote>
 <p>MyResume produce top-notch SEO-minded content that ranks incredibly well in Google page rankings. It has everything! Social Media sites auto import Website previews with descriptions. It makes things SO easy, just click to share!</p>
 <div style="text-align:right; padding-right:20%;"> – Satisfied MyResume User</div>
-</blockquote>
+</blockquote> -->

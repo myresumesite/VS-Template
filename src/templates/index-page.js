@@ -418,15 +418,21 @@ const YouTube = frontmatter.youtuber
 
 
 
-<ScrollAnimation className="" animateIn="bounceInUp" delay={550} initiallyVisible={false} animateOnce={true} animatePreScroll={true} style={{position:'', margin:'', padding:'',  width:'', zIndex:'', textAlign:'',}}>
-<div style={{position:'relative', top:'', margin:'0', padding:'25% 0',  width:'', zIndex:'1', textAlign:'', borderRadius:'12px',}}>
-  {/* <Newsignup /> */}
+
+<ScrollAnimation className="" animateIn="bounceInUp" delay={1550} initiallyVisible={false} animateOnce={true} animatePreScroll={true} style={{position:'', margin:'', padding:'',  width:'', zIndex:'', textAlign:'',}}>
+<div style={{position:'relative', top:'', margin:'', padding:'10vh 0 0 0',  width:'', zIndex:'1', textAlign:'', borderRadius:'12px',}}>
+  <Newsignup />
+
+
   </div>
 </ScrollAnimation>
 
 </div>
+
       </div> 
 </div>
+
+
 </article>
 </section>
 
