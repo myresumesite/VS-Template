@@ -584,7 +584,7 @@ zIndex:'0'
 
       </div>
       </button>}
-       light="../assets/icon-512x512.png"
+       light="../assets/MyResumeLogo.webp"
       />
             <br />
             <div className="post-card1 button1 logocopy " style={{textAlign:'center', padding:'0 0 .5rem 0', margin:'0'}}>
@@ -623,7 +623,7 @@ zIndex:'0'
       </div>
       </button>}
 
-        light="../assets/icon-512x512.png"
+        light="../assets/MyResumeLogo.webp"
       />
       <br />
             <div className="post-card1 button1 logocopy " style={{textAlign:'center', padding:'0 0 .5rem 0', margin:'0'}}>
@@ -650,7 +650,7 @@ zIndex:'0'
 
 <div className="post-card1" style={{height:'', margin:'', display:'flex', flexDirection:'column', justifyContent:'space-between', borderRadius:'12px', overflow:'hidden'}}>
     <a className="noexit" href="https://twilightscapes.com" target="_blank" rel="noopener noreferrer" style={{textDecoration:'none', color:'inherit',}}>
-    <StaticImage src="../../static/assets/icon-512x512.png" alt="Todd Lambert Night photos"  /></a>
+    <StaticImage src="../../static/assets/MyResumeLogo.webp" alt="Todd Lambert Night photos"  /></a>
    
     <p style={{padding:'1rem 2rem 0 2rem'}}>Experience a new style of landscape photography all through the eyes of Todd Lambert. Explore the unusual and see the night like you&apos;ve never seen it before.</p>
    <br />
@@ -662,7 +662,7 @@ zIndex:'0'
 
     <div className="post-card1" style={{height:'', margin:'', display:'flex', flexDirection:'column', justifyContent:'space-between', borderRadius:'12px', overflow:'hidden'}}>
     <a className="noexit" href="https://tron.allin60.com" target="_blank" rel="noopener noreferrer" style={{textDecoration:'none', color:'inherit',}}>
-    <StaticImage src="../../static/assets/icon-512x512.png" alt="TRON movie in only 60 seconds"  /></a>
+    <StaticImage src="../../static/assets/MyResumeLogo.webp" alt="TRON movie in only 60 seconds"  /></a>
     
     <p style={{padding:'1rem 2rem 0 2rem'}}>
     TRON, recreated in a dynamic multimedia format and it's all in 60 seconds. Rediscover your favorite movie in just 60 seconds. Enter the Grid - now.

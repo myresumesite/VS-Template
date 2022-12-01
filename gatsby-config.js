@@ -222,7 +222,7 @@ module.exports = {
           type: `image/png`,
         },
         {
-          src: `static/assets/icon-512x512.png`,
+          src: `static/assets/MyResumeLogo.webp`,
           sizes: `512x512`,
           type: `image/png`,
         },
