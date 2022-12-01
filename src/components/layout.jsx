@@ -76,10 +76,10 @@ export function Layout({ children }) {
   return (
 <CustomBox style={{}}>
 <>
-<Helmet>
+{/* <Helmet>
 
-<link rel="preconnect" href="https://fonts.googleapis.com" /> 
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin /> 
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 
 { !font1 ? (
   
@@ -87,11 +87,12 @@ export function Layout({ children }) {
 
   ) : (
 
-    
+
     <link id="yyy" rel="stylesheet"
           href={fontUrl} />
+          
   )} 
-</Helmet>
+</Helmet> */}
 
 
 

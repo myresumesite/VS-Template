@@ -737,7 +737,7 @@ zIndex:'0'
 
 
 
-<div id="costs" style={{display:'flex', flexDirection:'column', justifyContent:'center', alignItems:'center', margin:'0 0 2rem 0', width:'100%', color:'#fff'}}>
+<div id="costs" style={{display:'flex', flexDirection:'column', justifyContent:'center', alignItems:'center', margin:'0 0 2rem 0', width:'100%', }}>
               
               
 
