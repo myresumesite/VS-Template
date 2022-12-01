@@ -1,5 +1,6 @@
 /** @jsx jsx */
 import { jsx } from "theme-ui"
+// import * as React from "react"
 // import { Link } from "gatsby"
 // import { RiArrowDownLine, RiArrowRightSLine } from "react-icons/ri"
 
@@ -15,46 +16,18 @@ export default function BlogListHome(props) {
   return <PostMaker data={posts} />
 }
 
+
+
 const PostMaker = ({ data }) => (
-<div>
+
+
+
+
+  data
 
 
 
 
 
-{/* <h2 style={{fontSize:'200%', marginBottom:'1rem'}}>
-      Latest <strong>Experiences</strong>{" "}
-      <span className="icon -right">
-        <RiArrowDownLine />
-      </span>
-    </h2> */}
-    
-<div>
 
-        
-
-
-
-{data}
-
- 
-</div>
-
-    
-
-  {/* <div style={{display:'flex', justifyContent:'center', marginBottom:'20vh'}}>
-  <Link
-      className="button"
-      to="/experiences/"
-      title="See More Galleries"
-      style={{color:'#fff'}}
-    >
-      See More Experiences?
-      <span className="icon -right">
-        <RiArrowRightSLine />
-      </span>
-    </Link>
-</div> */}
-
-</div>
 )
