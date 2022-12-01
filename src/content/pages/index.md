@@ -3,7 +3,7 @@ slug: /
 tagline: Cost FREE Multimedia Resume Website Apps
 description: "MyResume - Next-Gen Resume Platform"
 featuredImage: /assets/default-og-image.jpg
-secondaryImage: /assets/icon-512x512.png
+secondaryImage: /assets/MyResumeLogo.webp
 underlayImage: /assets/transparent.png
 showInfo: "1"
 youtuber: ""

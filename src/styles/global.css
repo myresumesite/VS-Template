@@ -2783,8 +2783,8 @@ opacity:.8;
                             .squares > * {
                               max-height: 35vh !important; 
                             }
-                            .mob {order:2;}
-                            .mob2 {order:1;}
+                            /* .mob {order:2;}
+                            .mob2 {order:1;} */
 
                             /* @media (pointer: coarse) {
                               .horizontal-scroll-wrapper {
