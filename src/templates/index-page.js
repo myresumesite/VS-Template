@@ -342,58 +342,8 @@ const YouTube = frontmatter.youtuber
 <section style={{ display:'', height:'', overflow:''}}>
   <article>
 <div className="flexbutt" style={{display:'flex', gap:'30px'}}>
-      <div className="flexcheek mob" style={{padding:'10vh 2rem 0 2rem', maxHeight:'90vh',}}>
 
-
-          <h1 className="title1">{frontmatter.title}</h1>
-          <h2
-            className="tagline1"
-            sx={{
-              color: "",
-            }}
-          >
-            {frontmatter.tagline}
-          </h2>
-
-          <div
-          style={{}}
-            className="description"
-            dangerouslySetInnerHTML={{ __html: html }}
-          />
-  
-  {/* <br />
-          <Link
-            to={frontmatter.cta.ctaLink}
-            className="button fire actionJackson"
-            style={{
-              cursor:'pointer',
-              width:'80%',
-              maxWidth:'600px',
-              margin:'0 auto',
-              display:'flex',
-              alignSelf:'center',
-              color:'#ccc'
-            }}
-          >
-            {frontmatter.cta.ctaText}
-            <span className="icon -right">
-              <RiArrowRightSLine />
-            </span>
-
-            
-          </Link> */}
-
-<br />
-<br />
-
-      </div>
-
-
-
-        
-
-
-      <div className="flexcheek mob2" style={{position:'relative', maxHeight:'70vh', overflow:'', marginBottom:'', borderRadius:'0 0 12px 12px'}}>
+<div className="flexcheek mob2" style={{position:'relative', maxHeight:'70vh', overflow:'', marginBottom:'', borderRadius:'0 0 12px 12px'}}>
  
  
 
@@ -470,6 +420,60 @@ Only $99 single pay (NO Recurring Fees)<br />You own forever - it runs for free,
 </div>
 
       </div> 
+
+      
+      <div className="flexcheek mob" style={{padding:'10vh 2rem 0 2rem', maxHeight:'90vh',}}>
+
+
+          <h1 className="title1">{frontmatter.title}</h1>
+          <h2
+            className="tagline1"
+            sx={{
+              color: "",
+            }}
+          >
+            {frontmatter.tagline}
+          </h2>
+
+          <div
+          style={{}}
+            className="description"
+            dangerouslySetInnerHTML={{ __html: html }}
+          />
+  
+  {/* <br />
+          <Link
+            to={frontmatter.cta.ctaLink}
+            className="button fire actionJackson"
+            style={{
+              cursor:'pointer',
+              width:'80%',
+              maxWidth:'600px',
+              margin:'0 auto',
+              display:'flex',
+              alignSelf:'center',
+              color:'#ccc'
+            }}
+          >
+            {frontmatter.cta.ctaText}
+            <span className="icon -right">
+              <RiArrowRightSLine />
+            </span>
+
+            
+          </Link> */}
+
+<br />
+<br />
+
+      </div>
+
+
+
+        
+
+
+      
 
       
 </div>
