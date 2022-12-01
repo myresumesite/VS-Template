@@ -721,8 +721,8 @@ zIndex:'0'
 
 
 
-<section className="outer section section--gradient fluff txtshadow" style={{padding:'0 8%'}} >
-      <div className="container" style={{padding: '0 0%', color:'#fff'}}>
+<section className="outer section section--gradient fluff" style={{padding:'0 8%'}} >
+      <div className="container" style={{padding: '0 0%'}}>
 
 {/* <h2>Start with the best built website and then make sure it's as fast as can be. Then make some of the most innovative features that nobody else has. Finally, make sure it's virtually hack-proof, easy to use and ready to go!</h2>
 
