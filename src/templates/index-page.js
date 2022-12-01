@@ -741,11 +741,11 @@ zIndex:'0'
               
               
 
-              <p style={{fontSize:'150%', textAlign:'center', margin:'2rem 0 0 0'}}><u>NO</u> Hidden Costs</p>
+              <p style={{fontSize:'180%', textAlign:'center', margin:'2rem 0 0 0'}}><u>NO</u> Hidden Costs</p>
               
   
 
-              <p style={{fontSize:'150%', textAlign:'center', margin:'0 0 0 0'}}>uses FREE Cloud Based Services</p>
+              <p style={{fontSize:'180%', textAlign:'center', margin:'0 0 0 0'}}>uses FREE Cloud Based Services</p>
 
               </div>
 
