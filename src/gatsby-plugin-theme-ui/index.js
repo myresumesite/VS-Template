@@ -4,8 +4,8 @@ import { lightness } from "@theme-ui/color"
 const theme = {
   colors: {
     ...defaultColors,
-    text: "#111",
-    background: "siteColor",
+    text: "#333",
+    background: "#fff",
     primary: "var(--primary)",
     accent: "#fff",
     muted: "rgba(0, 0, 0, 0.7)",
@@ -22,7 +22,7 @@ const theme = {
     modes: {
       dark: {
         text: "#f5f5f5",
-        background: "siteColor",
+        background: "#222",
         primary: "var(--primary)",
         accent: "#5C2941",
         muted: "rgba(255, 255, 255, 0.7)",
