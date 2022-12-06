@@ -33,7 +33,7 @@ const NFTDetails = () => (
 
 <h2 className="logotype" style={{fontSize:'170%', textAlign:'center', margin:'0', textTransform:'none',  background: 'rgba(0,0,0,0.75)', padding:'.5rem', borderRadius:'12px 12px 0 0'}}>MyResume Website Applications </h2>
 
-    <TabList style={{width:'100%', background: 'rgba(0,0,0,0.75)', padding:'10px 0 0 0', borderRadius:'0 0 12px 12px', display:'flex', justifyContent:'space-around', textShadow:'2px 2px 10px #222', background:'rgba(0,0,0,0.30)', background: 'linear-gradient(180deg, rgb(27, 45, 50) 10%, rgb(81, 119, 138) 80%)', border:'1px solid #111',}}>
+    <TabList style={{width:'100%', background: 'rgba(0,0,0,0.55)', padding:'10px 0 0 0', borderRadius:'0 0 12px 12px', display:'flex', justifyContent:'space-around', textShadow:'2px 2px 10px #222', background:'rgba(0,0,0,0.30)', background: 'linear-gradient(180deg, rgb(27, 45, 50) 10%, rgb(81, 119, 138) 80%)', border:'1px solid #111',}}>
 
     <Tab><div className="iconmenu"><RiSecurePaymentLine/><span>Features</span></div></Tab>
     <Tab><div className="iconmenu"><CgRatio /><span>FAQ</span></div></Tab>
@@ -49,7 +49,7 @@ const NFTDetails = () => (
 
 
 
-    <TabPanel style={{width:'100%', background: 'rgba(0,0,0,0.75)', padding:'0', borderRadius:'12px'}}>
+    <TabPanel style={{width:'100%', background: 'rgba(0,0,0,0.25)', padding:'0', borderRadius:'12px'}}>
     <section id="features" className="" style={{padding:'0', margin:'0',}}>
 <div className="flexbutt featurelisting" style={{display:'flex', padding:'2rem', alignItems:'baseline', gap:'10px', color:'#fff'}}>
 
