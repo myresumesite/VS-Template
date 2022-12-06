@@ -303,7 +303,7 @@ const NFTDetails = () => (
     </TabPanel> */}
 
 
-<TabPanel style={{width:'100%', background: 'rgba(0,0,0,0.75)', padding:'2rem', borderRadius:'12px'}}>
+<TabPanel style={{width:'100%', background: 'rgba(0,0,0,0.35)', padding:'2rem', borderRadius:'12px'}}>
            {/* <strong style={{fontSize:'1.5rem'}}>MyResume use metered web services wherever possible</strong><br /><br />
            <p>
            MyResume are built using distributed web services and use these metered services for delivery<br /> <br />
