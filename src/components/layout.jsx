@@ -126,7 +126,7 @@ export function Layout({ children }) {
 
       <input type="checkbox" className="openSidebarMenu" id="openSidebarMenu" />
 
-  <label id="menuicon" htmlFor="openSidebarMenu" className="sidebarIconToggle">
+  <label id="menuicon" htmlFor="openSidebarMenu" className="sidebarIconToggle" style={{display:'none'}}>
 <div style={{textAlign:'center', opacity:'1', textShadow:'2px 2px 10px 2px #000', maxWidth:'80px', color:'#fff', borderRadius:'12px'}}>
 <StaticImage className="" src="../../static/assets/icon-512x512.png" alt="Logo" style={{borderRadius:'12px'}} /></div>
   </label>

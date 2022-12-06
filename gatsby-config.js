@@ -147,7 +147,7 @@ module.exports = {
         modulePath: ``, // default: undefined
         enableIdentityWidget: true,
         publicPath: `admin`,
-        htmlTitle: `VidSock CMS`,
+        htmlTitle: `My Resume`,
         htmlFavicon: `src/img/vidsock-logo.svg`,
         includeRobots: false,
       },
@@ -187,8 +187,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
-        host: 'https://vidsock.com',
-        sitemap: 'https://vidsock.com/sitemap.xml',
+        host: 'https://myresume.site',
+        sitemap: 'https://myresume.site/sitemap.xml',
         resolveEnv: () => process.env.GATSBY_ENV,
         env: {
           development: {
@@ -203,10 +203,10 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `VidSocks`,
-        short_name: `VidSocks`,
+        name: `MyResume`,
+        short_name: `MyResume`,
         start_url: `/support?user_mode=app`,
-        description: `VidSocks`,
+        description: `MyResume`,
         background_color: `#222`,
         lang: `en`,
         theme_color: `#222`,

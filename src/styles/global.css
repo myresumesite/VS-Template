@@ -4,9 +4,20 @@ body {
   font-family: var(--font-body);
   color: var(--text-color);
   background: inherit;
+  /* background: rgba(135, 85, 85, 0.2); */
   overflow-x: hidden !important;
   width:100vw;
 }
+
+/* body::after{
+  content: "  ";
+  position: fixed;
+  top:0;
+  z-index: -1;
+  height:100vh;
+  width:100vw;
+  background: rgba(42, 75, 85, 0.2);
+} */
 
 ::-webkit-scrollbar {
   width: 1px !important;
@@ -942,6 +953,11 @@ color:#fff !important;
       color:#fff !important;
 }
 
+
+.avatar-frame{
+  border:9px solid #fff;
+  border-radius:100% !important;
+}
 
 
 .rounded{border-radius: 12px; overflow: hidden;}
@@ -2007,15 +2023,42 @@ background: rgba(0,0,0,0.6);
           }
 
 
-
+          kbd {
+            display: inline-block;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            padding: 0em 0.5em;
+            margin: 0 0.2em;
+            box-shadow: 0 1px 0px rgba(0, 0, 0, 0.2), 0 0 0 2px #fff inset;
+            /* background-color: #f7f7f7; */
+        }
 
         @media print {
           body {
              color: #000;
-             background: #fff;
+             background: #fff !important;
+             /* margin:0 0 0 -50px !important; */
+             /* border:1px solid red !important; */
+             /* width:105% !important; */
+             /* height:100vh !important; */
+             padding:0 !important;
+             margin:0 !important;
           }
-       
-       footer, .sidebarIconToggle, .back, .taggage, .infomenu, .sidebart, .print, .commentbox, .makeStyles-container-1 {display: none !important;}
+
+          body::after {
+            background: #fff !important;
+         }
+
+         /* .leftside{width:45% !important; }
+         .rightside{width:45% !important;} */
+         #resume{width:90% !important; overflow: wrap !important;}
+          
+       h3{text-align: left !important; font-size:20px !important;}
+
+          .footerstyle, .sidebarIconToggle, .back, .taggage, .infomenu, .sidebart, #posts, #feature, .print, .commentbox, .avatar-frame, .makeStyles-container-1, .usability {display: none !important;}
+
+         #info{display:block !important;}
+          .nameblock{text-align:center !important; margin:0 auto; position:relative; }
 
        #logo {
         filter: brightness(0) saturate(100%) !important;
