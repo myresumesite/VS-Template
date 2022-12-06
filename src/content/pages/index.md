@@ -35,7 +35,7 @@ Runs anywhere and even works offline
  </h3>
 
 
- <div class="" style=" background:rgba(0,0,0,0.10); padding: 1rem 2rem; border: 0px double rgb(255, 255, 255); border-radius: 12px;"><h2 class="title1 txtshadow-header" style="position: relative; text-align: center; float: none; margin: 0px; padding: 0px; font-size: 1.5rem;"><span class="" style="font-size: 100%; font-weight: bold; border-radius: 12px; margin-top: -10px; position: absolute; width: 100%; display: flex; justify-content: center; border: 0px solid rgb(0, 0, 0);">Launch Yours Today</span>
+ <div class="" style=" padding: 1rem 2rem; border: 0px double rgb(255, 255, 255); border-radius: 12px;"><h2 class="title1 txtshadow-header" style="position: relative; text-align: center; float: none; margin: 0px; padding: 0px; font-size: 1.5rem;"><span class="" style="font-size: 100%; font-weight: bold; border-radius: 12px; margin-top: -10px; position: absolute; width: 100%; display: flex; justify-content: center; border: 0px solid rgb(0, 0, 0);">Launch Yours Today</span>
  <br />
  Ready To Go = Be Up In Minutes<br />
 <!-- Serverless Cloud Based = FREE<br /> -->

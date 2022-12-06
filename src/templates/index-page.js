@@ -547,7 +547,7 @@ zIndex:'0'
 
 <p style={{fontSize:'150%', textAlign:'center', margin:'2rem 0 0 0'}}>See it in action:</p>
 
-<div className="sliderholder" style={{display:'flex', justifyContent:'center', width:'100%', height:'500px', overflow:'hidden', position:'relative', background: 'rgba(0,0,0,0.75)',}}>
+<div className="sliderholder" style={{display:'flex', justifyContent:'center', width:'100%', height:'500px', overflow:'hidden', position:'relative', background: 'rgba(0,0,0,0.25)', color:'#fff'}}>
 
 <div className="RArrow"><span></span></div>
 
