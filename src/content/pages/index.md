@@ -1,6 +1,6 @@
 ---
 slug: /
-tagline: Cost FREE Multimedia Resume Website Apps
+tagline: Cost FREE Multimedia Resume/Portolio Websites
 description: "MyResume - Next-Gen Resume Platform"
 featuredImage: /assets/default-og-image.jpg
 secondaryImage: /assets/MyResumeLogo.webp
@@ -23,7 +23,7 @@ svgzindex: ""
 youtubestart: ""
 ---
 <h3 class="" style="color:; font-weight:bold; font-size:105%; margin:1rem 0; text-align:center; padding:5px; border-radius:12px;">
-Complete website apps with customizable resume pages and with integrated contact forms that send to your email. </h3>
+Progressive Website Apps with customizable resume and integrated contact forms that send to your email. </h3>
 
 <h3 class="" style="color:; margin:1rem 0; text-align:center; padding:5px; border-radius:12px;">
 Works on all devices - responsive design

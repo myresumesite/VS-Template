@@ -410,7 +410,7 @@ Web Apps = NO Apple or Google
 </span> */}
 <span style={{color:'', fontSize:'140%'}}>Let's Get Started</span>
 
-Only $99 single pay (NO Recurring Fees)<br />You own forever - it runs for free, forever
+Only $99 single pay (NO Recurring Fees)<br />You own it forever - it runs for free, forever
 <br /><br />
 <button className="neonText" style={{color:'#fff', fontSize:'160%', border:'1px solid', margin:'0 auto', borderRadius:'8px', maxWidth:'300px', padding:'0 2rem'}}>Order Now</button>
 <br /><br />
@@ -421,7 +421,7 @@ Only $99 single pay (NO Recurring Fees)<br />You own forever - it runs for free,
 
       </div> 
 
-      
+
       <div className="flexcheek mob" style={{padding:'10vh 2rem 0 2rem', maxHeight:'90vh',}}>
 
 
@@ -767,10 +767,10 @@ zIndex:'0'
 <div className="flexcheek post-card" style={{width:'33%', padding:'1rem 2rem ', backdropFilter: 'blur(4px)', border:'10px double #333', borderRadius:'12px', textAlign:'', alignSelf:'', }}>
 <h3 className="vartext letter" style={{color:'#fff', fontWeight:'700'}}>Cloud Hosting</h3>
 
-<div style={{}}>Virtually all sites operate month-to-month for <strong className="highlight">FREE or low cost</strong>. 
+<div style={{}}>Our sites designed to operate month-to-month for <strong className="highlight">FREE</strong>. 
   <br />
-Pay only when your site uses a LOT of data.<br /> 
- <br />
+Pay only if your site uses more than 1000gb of data or 100 form submissions a month.<br /> 
+ 
  <div style={{textDecoration:'underline', textAlign:'center'}}><a href="https://www.netlify.com/pricing/" target="_blank" rel="noreferrer" >View  <strong className="highlight"></strong> Hosting Plan</a></div>
  </div>
 
@@ -784,11 +784,10 @@ Pay only when your site uses a LOT of data.<br />
 </div>
 
 <div className="flexcheek post-card" style={{width:'33%', padding:'1rem 2rem ', backdropFilter: 'blur(4px)', border:'10px double #333', borderRadius:'12px', textAlign:'', alignSelf:'', }}>
-<h3 className="vartext letter" style={{color:'#fff', fontWeight:'700'}}>E-Commerce</h3>
-<p>Complete Shopify API integration with Shopify shopping cart built-in.
-Get FULL Shopify functionality directly inside your site.
+<h3 className="vartext letter" style={{color:'#fff', fontWeight:'700'}}>Document Backup</h3>
+<p>All website and files are stored and backed up in txt and multimedia formats with instant rollback. 
 <br />
-   <br />Shopify API costs <strong className="highlight">$8.99mo</strong>.</p>
+   <br />All document controll using Github for <strong className="highlight">FREE</strong>.</p>
 </div>
 </div>
 
@@ -822,10 +821,10 @@ Get FULL Shopify functionality directly inside your site.
 <p>Setup countdown timers for your own NFT Drops!  <br /> Embed your Foundation or OpenSea into your posts. Just copy and paste the share code.</p>
 </div> */}
 <div className="flexcheek post-card" style={{width:'33%', padding:'1rem 2rem ', backdropFilter: 'blur(4px)', border:'10px double #333', borderRadius:'12px', textAlign:'', alignSelf:'', }}>
-<h3 className="vartext letter" style={{color:'#fff', fontWeight:'700'}}>Comments</h3>
-<p>We use CommentBox.io and with their generous 100 comments a month.
+<h3 className="vartext letter" style={{color:'#fff', fontWeight:'700'}}>Fast &amp; Secure</h3>
+<p>Designed to run on the global cloud, without a web server so there is NOTHING to attack or affect performance.
   
-  <br /><br /><strong className="highlight" style={{color:''}}>FREE!</strong> Comments without ads</p>
+  <br /><br />100% Uptime for <strong className="highlight" style={{color:''}}>FREE</strong> </p>
 </div>
 
 
@@ -870,15 +869,15 @@ Get FULL Shopify functionality directly inside your site.
 <span  className="" style={{fontSize:'100%', fontWeight:'bold', textTransform:'', background:'rgba(0,0,0,0.30)', borderRadius:'12px', marginTop:'-40px', position:'absolute', width:'100%', display:'flex', justifyContent:'center', textShadow:'2px 2px 10px #222', filter:'drop-shadow(0px 0px 10px #0064bb)', border:'1px solid #000', }}>Coast Web includes:</span></h2> */}
           
         <ul className="featurelist" style={{listStyleType:'none'}}>
-        <li>User-installable PWA (Progressive Web Apps) which means your site can be installed on any device without the need for expensive and complex App Stores.</li>
-        <li>Hosted on Global Edge Network (the cloud)</li>
-        <li>Automated backups with intant rollbacks to any version.</li>
+        <li>User-installable PWA (Progressive Web Apps) which means your resume site can be installed on any device without the need for expensive and complex App Stores.</li>
+        <li>Hosted on Global Edge Network (the cloud). Designed to use free tier services, without limiting performance or results.</li>
+        <li>Automated backups with intant rollbacks to any version. Uses Github for document tracking and backup.</li>
         <li>FREE - 100GB/Mo Bandwidth</li>
-<li>FREE - 100 Site Form Submits per Mo</li>
+<li>FREE - Up to 100 Form responses a month sent direct to your email.</li>
 <li>FREE Secured Socket Layer (SSL) Cert (https://)</li>
-<li>Customizable with your own domain name</li>
-<li>Responsive Design, built with React and Gatsby</li>
-<li>Dark / Light Mode (also full support for all web accessibility guidelines)</li>
+<li>Customizable with your own domain name for as 9.99 a year.</li>
+
+
 
 
 </ul>
@@ -915,23 +914,26 @@ Get FULL Shopify functionality directly inside your site.
 
 
 
+        <li>Responsive Design, built with React and Gatsby JS. Serverless Modern and Fastest around.</li>
 
-
-<li>Customize all content of included Homepage, About and Contact page. Add / Modify / Delete blog posts.</li>
+<li>Customize all content of your resume and/or portfolio. Add / Modify / Delete blog/portfolio posts.</li>
 
 <li>Edit website settings, Add Google Analytics change colors, settings, logos, etc all from within the CMS.</li>
 
 
-<li>Hide/Show Comments, Social Sharing, or User-interactivity (youtube video changer) on a post-by-post basis</li>
+{/* <li>Hide/Show Comments, Social Sharing, or User-interactivity (youtube video changer) on a post-by-post basis</li> */}
 
-<li>Control YouTube videos with starting/stopping times, loop, mute, etc..</li>
+<li>Control YouTube videos with starting/stopping times, loop, mute, etc.. and NO ads!</li>
 
-<li>PWA Exclusive Content (make some of your content only available to your site's user base - great to boost engagement!)</li>
+<li>PWA Offline Content (Never be caught without your resume again!). Your resume on all your devices, at all times even without internet.</li>
 
-<li>Drop Timers - Easily create your own Drops. Make posts appear when your NFT drops. Just add the drop date and time</li>
+{/* <li>Drop Timers - Easily create your own Drops. Make posts appear when your NFT drops. Just add the drop date and time</li> */}
 
-<li>Your Stuff is SAFE - All stored in native image formats and markdown files that are downloadable at any time</li>
+<li>Your stuff is SAFE - All stored in native image formats and text files that are downloadable at any time</li>
+
 {/* <li>Auction Timers - Make posts disappear when your auction expires</li> */}
+
+<li>Dark / Light Mode (full support for all web accessibility guidelines)</li>
 
 </ul>
       </div>
@@ -968,17 +970,17 @@ Get FULL Shopify functionality directly inside your site.
         <ul className="featurelist" style={{listStyleType:'none'}}>
         
 
-<li>100% SEO Optimized - Google LOVES Coast Web sites. </li>
+<li>100% SEO Optimized - Google LOVES My-Resume sites. </li>
 
 <li>Full Privacy Compliance Support (GDPR and CCPA). </li>
 
-<li>Contact Form - an integrated contact form on all pages of the your site, that sends everything right to your email inbox.</li>
+<li>Contact Form - integrated contact forms on all pages of the your site, that sends everything right to your email inbox.</li>
 
-<li>E-Newsletter Form - Build your email newsletter by allowing peole to easily sign up</li>
+{/* <li>E-Newsletter Form - Build your email newsletter by allowing peole to easily sign up</li> */}
 
 <li>Social Media Icons - link to all your sites and allow users to easily share your content</li>
 
-<li>OpenGraph structured data - all of site is structured to be shared with high quality image links on social sites</li>
+<li>OpenGraph structured data - entire site is structured to be shared with high quality image links on social sites</li>
 
 <li>Twitter Cards meta - Your pages will look great when shared on Twitter</li>
 
