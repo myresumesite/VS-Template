@@ -547,7 +547,7 @@ zIndex:'0'
 
 <p style={{fontSize:'150%', textAlign:'center', margin:'2rem 0 0 0'}}>See it in action:</p>
 
-<div className="sliderholder" style={{display:'flex', justifyContent:'center', width:'100%', height:'500px', overflow:'hidden', position:'relative',}}>
+<div className="sliderholder" style={{display:'flex', justifyContent:'center', width:'100%', height:'500px', overflow:'hidden', position:'relative', background: 'rgba(0,0,0,0.75)',}}>
 
 <div className="RArrow"><span></span></div>
 
@@ -726,8 +726,8 @@ zIndex:'0'
 
 
 
-<section className="outer section section--gradient fluff" style={{padding:'0 8%'}} >
-      <div className="container" style={{padding: '0 0%'}}>
+<section className="outer section section--gradient fluff" style={{padding:'3vh 0'}} >
+      <div className="container" style={{padding: '0 8%'}}>
 
 {/* <h2>Start with the best built website and then make sure it's as fast as can be. Then make some of the most innovative features that nobody else has. Finally, make sure it's virtually hack-proof, easy to use and ready to go!</h2>
 
@@ -846,7 +846,7 @@ Pay only if your site uses more than 1000gb of data or 100 form submissions a mo
 
 
 
-<section id="features" className="" style={{padding:'8% 2%'}}>
+<section id="features" className="" style={{padding:'8% 2%', margin:'3vh 0', background: 'rgba(0,0,0,0.35)',}}>
 <div className="flexbutt featurelisting" style={{display:'flex', padding:'2rem', alignItems:'baseline', gap:'30px', color:'#fff'}}>
 
 
@@ -1008,7 +1008,7 @@ Pay only if your site uses more than 1000gb of data or 100 form submissions a mo
 
 
 
-<div className="container txtshadow " style={{ maxWidth:'1024px', textAlign:'', alignSelf:'', color:'#fff', padding:'0 4%', margin:'0 auto', }}>
+<div className="container txtshadow " style={{ maxWidth:'', textAlign:'', alignSelf:'', color:'#fff', padding:'4%', margin:'0 auto', }}>
 
 <NFTDetails />
 </div>
