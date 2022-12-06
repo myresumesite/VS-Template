@@ -1,14 +1,14 @@
 ---
 slug: /
 tagline: Cost FREE Multimedia Resume/Portolio Websites
-description: "MyResume - Next-Gen Resume Platform"
+description: "MyResume - Resume Progessive Website Applications"
 featuredImage: /assets/default-og-image.jpg
 secondaryImage: /assets/MyResumeLogo.webp
 underlayImage: /assets/transparent.png
 showInfo: "1"
 youtuber: ""
 youtubeautostart: "1"
-title: Your Resume, Online... Forever
+title: Your Resume Online, Forever... Never worry about your resume again.
 svgImage: /assets/null.svg
 showPosts: ""
 cta:
