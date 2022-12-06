@@ -46,7 +46,7 @@ const Consent = () => (
 {/* </ScrollAnimation> */}
 
     <div style={{color:'inherit', padding:'1rem', fontSize:'1.2rem', textAlign:'center',}}>
-     We use cookies to optimize our site.{" "}<br />
+     This site uses cookies to optimize your visit.{" "}<br />
     <span style={{ fontSize: "75%", color:'inherit', textDecoration:'underline' }}>
    <a className="donotsell" href="/privacy/">Do Not Sell My Personal Information</a>
     </span>
