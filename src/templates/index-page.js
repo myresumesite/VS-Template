@@ -8,6 +8,7 @@ import { RiArrowRightSLine } from "react-icons/ri"
 import { Footer } from "../components/footer"
 // import { GoArrowDown } from "react-icons/go"
 // import ScrollAnimation from 'react-animate-on-scroll'
+import NFTDetails from "../components/nft-details"
 import { Helmet } from "react-helmet"
 import { StaticImage } from "gatsby-plugin-image"
 import { useSiteMetadata } from "../hooks/use-site-metadata"
@@ -999,6 +1000,18 @@ Pay only if your site uses more than 1000gb of data or 100 form submissions a mo
 </div>
 </section>
 
+
+
+
+
+
+
+
+
+<div className="container txtshadow " style={{ maxWidth:'1024px', textAlign:'', alignSelf:'', color:'#fff', padding:'0 4%', margin:'0 auto', }}>
+
+<NFTDetails />
+</div>
 
 
  </div>{/* end scooch */}
