@@ -764,7 +764,7 @@ zIndex:'0'
 <div className="flexbutt hover" style={{display:'flex', padding:'0', gap:'20px', color:'#fff'}}>
 
 
-<div className="flexcheek post-card" style={{width:'33%', padding:'1rem 2rem ', backdropFilter: 'blur(4px)', border:'10px double #333', borderRadius:'12px', textAlign:'', alignSelf:'', }}>
+<div className="flexcheek post-card" style={{width:'33%', padding:'1rem 2rem ', backdropFilter: 'blur(4px)', border:'4px solid #111', borderRadius:'12px', textAlign:'', alignSelf:'', }}>
 <h3 className="vartext letter" style={{color:'#fff', fontWeight:'700'}}>Cloud Hosting</h3>
 
 <div style={{}}>Our sites designed to operate month-to-month for <strong className="highlight">FREE</strong>. 
@@ -776,14 +776,14 @@ Pay only if your site uses more than 1000gb of data or 100 form submissions a mo
 
 </div>
 
-<div className="flexcheek post-card" style={{width:'33%', padding:'1rem 2rem ', backdropFilter: 'blur(4px)', border:'10px double #333', borderRadius:'12px', textAlign:'', alignSelf:'', }}>
+<div className="flexcheek post-card" style={{width:'33%', padding:'1rem 2rem ', backdropFilter: 'blur(4px)', border:'4px solid #111', borderRadius:'12px', textAlign:'', alignSelf:'', }}>
 <h3 className="vartext letter" style={{color:'#fff', fontWeight:'700'}}>Analytics</h3>
 <p>Complete integration with Google Analytics. Simply paste your account tracking code into the CMS settings. 
   <br />
   <br />Track your website performance for <strong className="highlight">FREE</strong>!</p>
 </div>
 
-<div className="flexcheek post-card" style={{width:'33%', padding:'1rem 2rem ', backdropFilter: 'blur(4px)', border:'10px double #333', borderRadius:'12px', textAlign:'', alignSelf:'', }}>
+<div className="flexcheek post-card" style={{width:'33%', padding:'1rem 2rem ', backdropFilter: 'blur(4px)', border:'4px solid #111', borderRadius:'12px', textAlign:'', alignSelf:'', }}>
 <h3 className="vartext letter" style={{color:'#fff', fontWeight:'700'}}>Document Backup</h3>
 <p>All website and files are stored and backed up in txt and multimedia formats with instant rollback. 
 <br />
@@ -804,12 +804,12 @@ Pay only if your site uses more than 1000gb of data or 100 form submissions a mo
 <div className="flexbutt hover" style={{display:'flex', marginTop:'20px', padding:'', gap:'20px', color:'#fff'}}>
 
 
-<div className="flexcheek post-card" style={{width:'33%', padding:'1rem 2rem ', backdropFilter: 'blur(4px)', border:'10px double #333', borderRadius:'12px', textAlign:'', alignSelf:'', }}>
+<div className="flexcheek post-card" style={{width:'33%', padding:'1rem 2rem ', backdropFilter: 'blur(4px)', border:'4px solid #111', borderRadius:'12px', textAlign:'', alignSelf:'', }}>
 <h3 className="vartext letter" style={{color:'#fff', fontWeight:'700'}}>Social Sharing</h3>
 <p>Why pay for plugins just to allow for your users to share your content? Social sharing is built-in, along with other great features. <br /><br />All INCLUDED for <strong className="highlight">FREE</strong>.</p>
 </div>
 
-<div className="flexcheek post-card" style={{width:'33%', padding:'1rem 2rem ', backdropFilter: 'blur(4px)', border:'10px double #333', borderRadius:'12px', textAlign:'', alignSelf:'', }}>
+<div className="flexcheek post-card" style={{width:'33%', padding:'1rem 2rem ', backdropFilter: 'blur(4px)', border:'4px solid #111', borderRadius:'12px', textAlign:'', alignSelf:'', }}>
 <h3 className="vartext letter" style={{color:'#fff', fontWeight:'700'}}>AdFree YouTube</h3>
 <p>We use AdFree YouTube to remove ads. This means you have complete control of your videos without any ads.
   
@@ -820,7 +820,7 @@ Pay only if your site uses more than 1000gb of data or 100 form submissions a mo
 <h3 className="vartext">NFT Features</h3>
 <p>Setup countdown timers for your own NFT Drops!  <br /> Embed your Foundation or OpenSea into your posts. Just copy and paste the share code.</p>
 </div> */}
-<div className="flexcheek post-card" style={{width:'33%', padding:'1rem 2rem ', backdropFilter: 'blur(4px)', border:'10px double #333', borderRadius:'12px', textAlign:'', alignSelf:'', }}>
+<div className="flexcheek post-card" style={{width:'33%', padding:'1rem 2rem ', backdropFilter: 'blur(4px)', border:'4px solid #111', borderRadius:'12px', textAlign:'', alignSelf:'', }}>
 <h3 className="vartext letter" style={{color:'#fff', fontWeight:'700'}}>Fast &amp; Secure</h3>
 <p>Designed to run on the global cloud, without a web server so there is NOTHING to attack or affect performance.
   

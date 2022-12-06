@@ -2551,9 +2551,9 @@ opacity:.8;
     background-color:transparent;
     background: linear-gradient(180deg, rgb(27, 45, 50) 10%, rgb(81, 119, 138) 80%);
     /* border-left:1px solid rgba(255, 255, 255, 0.10); */
-    box-shadow: 0 5px 10px rgba(0, 0, 0, 1);
-    border-radius: 12px;
-    max-height: 50%;
+    box-shadow: 0 5px 4px rgba(0, 0, 0, .3);
+    border-radius: 10px;
+    /* max-height: 50%; */
     /* transition: box-shadow 0.3s linear; */
   }
     .featured-image img {
