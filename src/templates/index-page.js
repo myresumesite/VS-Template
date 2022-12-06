@@ -846,7 +846,7 @@ Pay only if your site uses more than 1000gb of data or 100 form submissions a mo
 
 
 
-<section id="features" className="" style={{padding:'8% 2%', margin:'3vh 0', background: 'rgba(0,0,0,0.35)',}}>
+<section id="features" className="" style={{padding:'8% 2%', margin:'3vh 0',}}>
 <div className="flexbutt featurelisting" style={{display:'flex', padding:'2rem', alignItems:'baseline', gap:'30px', color:'#fff'}}>
 
 
