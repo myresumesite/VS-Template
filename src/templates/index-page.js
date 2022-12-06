@@ -415,7 +415,7 @@ Only $99 single pay (NO Recurring Fees)<br />You own it forever - it runs for fr
 <br /><br />
 <button className="neonText" style={{color:'#fff', fontSize:'160%', border:'1px solid', margin:'0 auto', borderRadius:'8px', maxWidth:'300px', padding:'0 2rem'}}>Order Now</button>
 <br /><br />
-<span style={{color:'', fontSize:'90%'}}>Fast | Flexible | Secure | Featured</span>
+<span style={{color:'#fff', fontSize:'110%'}}>Fast | Flexible | Secure | Featured</span>
 <br />
 
 </div>
