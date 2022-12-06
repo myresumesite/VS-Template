@@ -422,7 +422,7 @@ Only $99 single pay (NO Recurring Fees)<br />You own it forever - it runs for fr
       </div> 
 
 
-      <div className="flexcheek mob" style={{padding:'10vh 2rem 0 2rem', maxHeight:'90vh',}}>
+      <div className="flexcheek mob" style={{padding:'8vh 2rem 0 2rem', maxHeight:'90vh',}}>
 
 
           <h1 className="title1">{frontmatter.title}</h1>
