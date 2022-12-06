@@ -343,12 +343,12 @@ const YouTube = frontmatter.youtuber
   <article>
 <div className="flexbutt" style={{display:'flex', gap:'30px'}}>
 
-<div className="flexcheek mob2" style={{position:'relative', maxHeight:'70vh', overflow:'', marginBottom:'', borderRadius:'0 0 12px 12px'}}>
+<div className="flexcheek mob2" style={{position:'relative', overflow:'', marginBottom:'', borderRadius:'0 0 12px 12px'}}>
  
  
 
 
- <div className="" style={{margin:'0 30px', zIndex:'', borderRadius:'12px', maxHeight:'70vh', overflow:'', position:'relative', display:'', justifyContent:'', alignItems:'', flexDirection:'column'}}>
+ <div className="" style={{margin:'0', zIndex:'', maxHeight:'10vh', overflow:'', position:'relative', display:'', justifyContent:'', alignItems:'', flexDirection:''}}>
    
 
 
@@ -359,7 +359,7 @@ const YouTube = frontmatter.youtuber
               image={SecondaryImage}
               alt={frontmatter.title + " - Featured image"}
               className="drop-shadow"
-              style={{border:'0px solid red', width:'100%', height:'', maxHeight:'70vh',  borderRadius:'12px !important', position:'absolute', backgroundSize:'cover', objectFit:'cover', top:'0', zIndex:'0'}}
+              style={{border:'0px solid red', width:'70%', height:'', maxHeight:'', maxWidth:'',  borderRadius:'12px !important', position:'relative', backgroundSize:'cover', objectFit:'cover', top:'0', zIndex:'0', margin:'0 auto'}}
             />
           ) : (
             ""
