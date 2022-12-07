@@ -3,7 +3,7 @@ import { useSiteMetadata } from "../hooks/use-site-metadata"
 // import ScrollAnimation from 'react-animate-on-scroll'
 
 import Consent from "../components/Consent"
-import Install from "../components/Install-footer"
+// import Install from "../components/Install-footer"
 import Icons from "../util/socialmedia.json"
 // import { FaHandPointDown } from "react-icons/fa"
 

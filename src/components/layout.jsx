@@ -38,7 +38,7 @@ import { useSiteMetadata } from "../hooks/use-site-metadata"
 // import { BiLeftArrow } from "react-icons/bi"
 import { navigate } from "gatsby";
 import styled from "styled-components"
-import { Helmet } from "react-helmet"
+// import { Helmet } from "react-helmet"
 import { StaticImage } from "gatsby-plugin-image"
 
 
@@ -64,9 +64,9 @@ export function Layout({ children }) {
   const { menu1 } = useSiteMetadata()
   // const { menu2 } = useSiteMetadata()
   const { menu3 } = useSiteMetadata()
-  const { font1 } = useSiteMetadata()
+  // const { font1 } = useSiteMetadata()
 
-  const fontUrl = "https://fonts.googleapis.com/css?family=" + font1 + "&display=swap"
+  // const fontUrl = "https://fonts.googleapis.com/css?family=" + font1 + "&display=swap"
 
   // const [isVisible, setIsVisible] = useState(false);
   // const toggleVisible = () => {

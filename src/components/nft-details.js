@@ -33,7 +33,7 @@ const NFTDetails = () => (
 
 <h2 className="logotype" style={{fontSize:'170%', textAlign:'center', margin:'0', textTransform:'none',  background: 'rgba(0,0,0,0.75)', padding:'.5rem', borderRadius:'12px 12px 0 0'}}>MyResume Website Applications </h2>
 
-    <TabList style={{width:'100%', background: 'rgba(0,0,0,0.55)', padding:'10px 0 0 0', borderRadius:'0 0 12px 12px', display:'flex', justifyContent:'space-around', textShadow:'2px 2px 10px #222', background:'rgba(0,0,0,0.30)', background: 'linear-gradient(180deg, rgb(27, 45, 50) 10%, rgb(81, 119, 138) 80%)', border:'1px solid #111',}}>
+    <TabList style={{width:'100%', padding:'10px 0 0 0', borderRadius:'0 0 12px 12px', display:'flex', justifyContent:'space-around', textShadow:'2px 2px 10px #222', background: 'linear-gradient(180deg, rgb(27, 45, 50) 10%, rgb(81, 119, 138) 80%)', border:'1px solid #111',}}>
 
     <Tab><div className="iconmenu"><RiSecurePaymentLine/><span>Features</span></div></Tab>
     <Tab><div className="iconmenu"><CgRatio /><span>FAQ</span></div></Tab>
@@ -380,7 +380,7 @@ Pay only if your site uses more than 1000gb of data or 100 form submissions a mo
 <h3 className="vartext letter" style={{color:'#fff', fontWeight:'700'}}>Document Backup</h3>
 <p>All website and files are stored and backed up in txt and multimedia formats with instant rollback. 
 <br />
-   <br />All document controll using Github for <strong className="highlight">FREE</strong>.</p>
+   <br />All document control using Github for <strong className="highlight">FREE</strong>.</p>
 </div>
 </div>
 
